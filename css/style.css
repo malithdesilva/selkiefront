@@ -1,0 +1,66 @@
+/*! * Layana HTML 1.0.0 by WowThemes.net * All rights reserved http://www.wowthemes.net */
+html,body {
+	width:100%;
+	height:100%;
+}
+body {
+	font-family:Open Sans,'Helvetica Neue',Arial,sans-serif;
+	font-size:15px;
+	color:#777;
+	line-height:1.7;
+}
+hr {
+	max-width:50px;
+	border-color:#f05f40;
+	border-width:3px;
+}
+hr.light {
+	border-color:#fff;
+}
+a {
+	color:#f05f40;
+	-webkit-transition:all .35s;
+	-moz-transition:all .35s;
+	transition:all .35s;
+}
+a:hover,a:focus {
+	color:#eb3812;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family:'Dosis','Helvetica Neue',Arial,sans-serif;
+}
+p {
+	margin-bottom:20px;
+}
+.btn {
+		padding:16px 30px;
+	margin-top:15px;
+}
+.bg-primary {
+	background-color:#f05f40;
+}
+.bg-dark {
+	color:#ccc;
+	background-color:#222;
+}
+.bg-gray {
+	background-color:#f4f4f4;
+}
+.bg-darkgray {
+	background-color:#eaeaea;
+}
+.bg-gray h2,.bg-darkgray h2 {
+	color:#111;
+}
+.text-faded {
+	color:rgba(255,255,255,.7) !Important;
+}
+section {
+	padding:80px 0;
+}
+aside {
+	padding:50px 0;
+}
+.no-padding {
+	padding:0;
+}
